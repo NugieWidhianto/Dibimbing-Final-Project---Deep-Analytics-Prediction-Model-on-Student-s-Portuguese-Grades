@@ -1,5 +1,5 @@
 # About Dataset
-Data ini berisi performa siswa dalam pendidikan menengah / SMP di dua sekolah di Negara Portugal. Kolom-kolom pada dataset mencakup nilai siswa, fitur demografis, sosial, dan sekolah, yang dikumpulkan melalui laporan sekolah dan kuesioner. Dataset ini menyediakan informasi mengenai kinerja siswa dalam mata pelajaran Bahasa Portugis (por).
+**Data ini berisi performa siswa dalam pendidikan menengah / SMP di dua sekolah di Negara Portugal. Kolom-kolom pada dataset mencakup nilai siswa, fitur demografis, sosial, dan sekolah, yang dikumpulkan melalui laporan sekolah dan kuesioner. Dataset ini menyediakan informasi mengenai kinerja siswa dalam mata pelajaran Bahasa Portugis (por).**
 
 ## Columns Description
 
