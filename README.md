@@ -1,4 +1,6 @@
-# Dibimbing Final Project - Deep Analytics & Prediction Model on Student's Portuguese Grades at 2 School in Portugal
+:zap: # Dibimbing Final Project - Deep Analytics & Prediction Model on Student's Portuguese Grades at 2 School in Portugal :zap:
+
+## > Link for the dataset : https://www.kaggle.com/datasets/whenamancodes/student-performance/data?select=Portuguese.csv
 
 ## Project Introduction
 Project ini dibuat untuk mengetahui apa-apa saja yang menjadi pengaruh terhadap performa siswa di sekolah menengah / SMP dan membuat model prediksi dan 'Deep Analytics' terhadap performa siswa disekolah.
