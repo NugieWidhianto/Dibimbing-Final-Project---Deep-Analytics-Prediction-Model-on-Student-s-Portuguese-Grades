@@ -26,3 +26,30 @@ Dalam skala bisnis, hal ini dapat digunakan dan difungsikan dalam skala kecil ma
 ### 5. Apakah Hubungan Romantis mempengaruhi nilai siswa?
 - H0 - Nilai siswa TIDAK dipengaruhi oleh Hubungan Romantis siswa
 - H1 - Nilai siswa DIPENGARUHI oleh Hubungan Romantis siswa
+
+## Libraries 
+Libraries Python yang paling banyak digunakan pada project ini adalah Pandas, Numpy, Matplotlib dan Seaborn. Adapula Libraries lain-nya yang saya gunakan untuk keperluan lain dalam project ini seperti :
+
+import pandas as pd
+import numpy as np
+pd.set_option('display.max_columns', None)
+import matplotlib.pyplot as plt
+import seaborn as sns
+import scipy.stats as stats
+from sklearn.model_selection import train_test_split , cross_val_score , GridSearchCV
+from sklearn.preprocessing import StandardScaler, MinMaxScaler
+
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import confusion_matrix,accuracy_score,ConfusionMatrixDisplay,precision_score, recall_score,roc_curve,roc_auc_score
+from sklearn.feature_selection import SelectKBest
+from sklearn.feature_selection import chi2
+from mlxtend.feature_selection import SequentialFeatureSelector
+from sklearn.metrics import classification_report
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import GridSearchCV
+from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.svm import SVC
+from sklearn.metrics import roc_curve, roc_auc_score
+
+import warnings
+warnings.filterwarnings('ignore')
