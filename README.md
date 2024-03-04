@@ -9,8 +9,8 @@ Dalam skala bisnis, hal ini dapat digunakan dan difungsikan dalam skala kecil ma
 
 # Business Questions
 ## 1. Alasan / pengaruh terhadap nilai siswa?
-H0 - Nilai siswa hanya dipengaruhi oleh alasan generik yang berhubungan dengan akademik
-H1 - Nilai siswa juga dipengaruhi oleh alasan diluar akademik siswa
+> H0 - Nilai siswa hanya dipengaruhi oleh alasan generik yang berhubungan dengan akademik
+> H1 - Nilai siswa juga dipengaruhi oleh alasan diluar akademik siswa
 ## 2. Apakah jenis kelamin mempengaruhi nilai siswa?
 H0 - Nilai siswa TIDAK dipengaruhi oleh jenis kelamin
 H1 - Terdapat PERBEDAAN NILAI antar jenis kelamin siswa
