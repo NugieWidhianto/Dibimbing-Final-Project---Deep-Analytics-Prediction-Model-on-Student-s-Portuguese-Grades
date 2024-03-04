@@ -30,6 +30,7 @@ Dalam skala bisnis, hal ini dapat digunakan dan difungsikan dalam skala kecil ma
 ## Libraries 
 Libraries Python yang paling banyak digunakan pada project ini adalah Pandas, Numpy, Matplotlib dan Seaborn. Adapula Libraries lain-nya yang saya gunakan untuk keperluan lain dalam project ini seperti :
 
+```python
 import pandas as pd
 import numpy as np
 pd.set_option('display.max_columns', None)
@@ -53,3 +54,4 @@ from sklearn.metrics import roc_curve, roc_auc_score
 
 import warnings
 warnings.filterwarnings('ignore')
+```
