@@ -5,6 +5,9 @@
 ## Project Introduction
 Project ini dibuat untuk mengetahui apa-apa saja yang menjadi pengaruh terhadap **performa siswa** di sekolah menengah / SMP dan membuat **model prediksi dan 'Deep Analytics'** terhadap performa siswa disekolah.
 
+![python-logo-master-v3-TM](https://github.com/NugieWidhianto/Dibimbing-Final-Project---Deep-Analytics-Prediction-Model-on-Student-s-Portuguese-Grades/assets/143291976/c8ccbed9-842a-45d6-85b2-e99b644d4ffc)
+
+
 https://camo.githubusercontent.com/55e4079e69ec5d8246620ecff24ed093877ab0f9011e71d8dec0a2c460c886ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
 
 Dalam **skala bisnis**, hal ini dapat digunakan dan difungsikan dalam skala kecil maupun besar, dengan contoh:
