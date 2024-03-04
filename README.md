@@ -3,11 +3,11 @@
 > Link for the dataset : https://www.kaggle.com/datasets/whenamancodes/student-performance/data?select=Portuguese.csv
 
 ## Project Introduction
-Project ini dibuat untuk mengetahui apa-apa saja yang menjadi pengaruh terhadap performa siswa di sekolah menengah / SMP dan membuat model prediksi dan 'Deep Analytics' terhadap performa siswa disekolah.
+Project ini dibuat untuk mengetahui apa-apa saja yang menjadi pengaruh terhadap **performa siswa** di sekolah menengah / SMP dan membuat **model prediksi dan 'Deep Analytics' terhadap performa siswa disekolah.
 
-Dalam skala bisnis, hal ini dapat digunakan dan difungsikan dalam skala kecil maupun besar, dengan contoh:
-- Skala Kecil : Perbaikan sistem pendidikan dan pengajaran pada suatu sekolah.
-- Skala Besar : Perbaikan sistem pendidikan suatu daerah/kota/provinsi/negara, dalam hal pengajaran dan pemerhatian terhadap aspek-aspek baik secara akademik ataupun diluar akademik terhadap performa siswa disekolah.
+Dalam **skala bisnis**, hal ini dapat digunakan dan difungsikan dalam skala kecil maupun besar, dengan contoh:
+- **Skala Kecil** : Perbaikan sistem pendidikan dan pengajaran pada suatu sekolah.
+- **Skala Besar** : Perbaikan sistem pendidikan suatu daerah/kota/provinsi/negara, dalam hal pengajaran dan pemerhatian terhadap aspek-aspek baik secara akademik ataupun diluar akademik terhadap performa siswa disekolah.
 
 ## Business Questions
 ### 1. Alasan / pengaruh terhadap nilai siswa?
@@ -28,7 +28,7 @@ Dalam skala bisnis, hal ini dapat digunakan dan difungsikan dalam skala kecil ma
 - H1 - Nilai siswa DIPENGARUHI oleh Hubungan Romantis siswa
 
 ## Libraries 
-Libraries Python yang paling banyak digunakan pada project ini adalah Pandas, Numpy, Matplotlib dan Seaborn. Adapula Libraries lain-nya yang saya gunakan untuk keperluan lain dalam project ini seperti :
+Libraries Python yang paling banyak digunakan pada project ini adalah **Pandas, Numpy, Matplotlib dan Seaborn**. Adapula Libraries lain-nya yang saya gunakan untuk keperluan lain dalam project ini seperti :
 
 ```python
 import pandas as pd
